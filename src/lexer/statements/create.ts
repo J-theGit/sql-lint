@@ -15,6 +15,7 @@ class Create implements ILexer {
     "index",
     "or",
     "procedure",
+    "sequence", // postgres
     "server",
     "schema",
     "table",
